@@ -1,4 +1,4 @@
-# Linux configure tools 
+# Linux configure tool
 
    2017年1月在为客户做虚拟机和物理机自动化安装CentOS/RHEL7的系统，客户提出自动化安装出来的机器配置统一，在他们交付机器的时候要修改默认配置的，于是为其做了一个图形化的配置工具。
    
